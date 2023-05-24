@@ -7,4 +7,4 @@
 #### pip install -r requirements.txt
 #### streamlit run dashboard.py
 
-![Image text](https://github.com/lag21392/Coindix_Data_Scientist_Technical_Challenge/main/dashboradImage.jpg)
+![Image text](https://github.com/lag21392/Coindix_Data_Scientist_Technical_Challenge/blob/main/dashboradImage.jpg)
